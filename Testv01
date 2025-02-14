@@ -1,1 +1,2 @@
-The file starts here 
+mkdir git-practice && cd git-practice
+git init
